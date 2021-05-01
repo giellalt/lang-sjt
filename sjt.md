@@ -1,3 +1,106 @@
+Noun inflection
+Nouns in the Ter Sami language inflect for number, case, and possessor.
+
+"class-1"    = monosyllabic/palatalized inflection foot
+"subclass-A" = str-wk, depalatalization in Ill.Sg ?no ablaut/umlaut?
+
+
+
+
+
+
+
+
+
+
+
+following example source from empty project file
+
+
+Following the actual noun inflection suffixes
+
+
+
+
+
+
+
+Proper noun inflection
+The Ter Sami language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Ter Sami language adjectives compare.
+
+
+
+
+
+
+
+
+Verb inflection
+The Ter Sami language verbs inflect in persons.
+
+
+
+
+
+
+
+=================================== !
+The Ter Sami morphophonological/twolc rules file !
+=================================== !
+
+Alphabet
+
+
+Trigger symbols
+
+Morpheme boundaries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Ter Sami LANGUAGE.
 
@@ -78,6 +181,160 @@ given the proper use of these flags.
 
 The word forms in Ter Sami language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
+
+Nouns
+Nouns in the Ter Sami language are things.
+
+
+
+
+
+
+
+
+
+
+
+
+Prefixes
+Prefixes in the Ter Sami language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in the Ter Sami language are references to things.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adjectives
+Adjectives in the Ter Sami language describe things.
+
+
+
+
+
+
+
+Adverbs
+Adverbs in the Ter Sami language describe things.
+
+
+
+
+
+Conjunctions
+Concunctions in the Ter Sami language describe things.
+
+
+
+
+
+Particles
+Particles in the Ter Sami language describe things.
+
+
+
+Verbs
+Verbs in the Ter Sami language are actions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adpositions
+Adpositions in the Ter Sami language describe things.
+
+
+
+Numerals
+Numerals in the Ter Sami language are numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
