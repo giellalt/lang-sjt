@@ -605,8 +605,8 @@ These were the set types.
 
 
 
-Nouns
-Nouns in the Ter Sami language are things.
+Verb inflection
+The Ter Sami language verbs inflect in persons.
 
 
 
@@ -614,22 +614,27 @@ Nouns in the Ter Sami language are things.
 
 
 
+Proper noun inflection
+The Ter Sami language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
 
 
 
+Adjective inflection
+The Ter Sami language adjectives compare.
 
 
-Numerals
-Numerals in the Ter Sami language are numbers.
 
 
-Verbs
-Verbs in the Ter Sami language are actions.
 
 
 
 
+Noun inflection
+Nouns in the Ter Sami language inflect for number, case, and possessor.
 
+"class-1"    = monosyllabic/palatalized inflection foot
+"subclass-A" = str-wk, depalatalization in Ill.Sg ?no ablaut/umlaut?
 
 
 
@@ -639,67 +644,21 @@ Verbs in the Ter Sami language are actions.
 
 
 
-Adpositions
-Adpositions in the Ter Sami language describe things.
 
 
+following example source from empty project file
 
-Prefixes
-Prefixes in the Ter Sami language are bound to beginning of other words.
 
+Following the actual noun inflection suffixes
 
 
-Adjectives
-Adjectives in the Ter Sami language describe things.
 
 
 
 
 
 
-
-Adverbs
-Adverbs in the Ter Sami language describe things.
-
-
-
-
-
-Conjunctions
-Concunctions in the Ter Sami language describe things.
-
-
-
-
-
-Particles
-Particles in the Ter Sami language describe things.
-
-
-
-Pronouns
-Pronouns in the Ter Sami language are references to things.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Symbol affixes
 
 
 
@@ -749,18 +708,8 @@ Morpheme boundaries
 
 
 
-
-# Symbol affixes
-
-
-
-
-
-Noun inflection
-Nouns in the Ter Sami language inflect for number, case, and possessor.
-
-"class-1"    = monosyllabic/palatalized inflection foot
-"subclass-A" = str-wk, depalatalization in Ill.Sg ?no ablaut/umlaut?
+Verbs
+Verbs in the Ter Sami language are actions.
 
 
 
@@ -772,25 +721,11 @@ Nouns in the Ter Sami language inflect for number, case, and possessor.
 
 
 
-following example source from empty project file
-
-
-Following the actual noun inflection suffixes
 
 
 
-
-
-
-
-Proper noun inflection
-The Ter Sami language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-Verb inflection
-The Ter Sami language verbs inflect in persons.
+Pronouns
+Pronouns in the Ter Sami language are references to things.
 
 
 
@@ -798,8 +733,73 @@ The Ter Sami language verbs inflect in persons.
 
 
 
-Adjective inflection
-The Ter Sami language adjectives compare.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Numerals
+Numerals in the Ter Sami language are numbers.
+
+
+Adjectives
+Adjectives in the Ter Sami language describe things.
+
+
+
+
+
+
+
+Adverbs
+Adverbs in the Ter Sami language describe things.
+
+
+
+
+
+Conjunctions
+Concunctions in the Ter Sami language describe things.
+
+
+
+
+
+Particles
+Particles in the Ter Sami language describe things.
+
+
+
+Prefixes
+Prefixes in the Ter Sami language are bound to beginning of other words.
+
+
+
+Adpositions
+Adpositions in the Ter Sami language describe things.
+
+
+
+Nouns
+Nouns in the Ter Sami language are things.
+
+
+
+
 
 
 
@@ -892,22 +892,6 @@ word classes, or optionally from prefixes:
 
 
 
-We describe here how abbreviations are in Ter Sami are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -958,6 +942,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Ter Sami are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       [ L A N G U A G E ]  G R A M M A R   C H E C K E R
