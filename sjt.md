@@ -606,7 +606,114 @@ These were the set types.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-sjt/blob/main/../src/cg3/functions.cg3)</small>=================================== !
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-sjt/blob/main/../src/cg3/functions.cg3)</small>Nouns
+Nouns in the Ter Sami language are things.
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/nouns.lexc)</small>Prefixes
+Prefixes in the Ter Sami language are bound to beginning of other words.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/prefixes.lexc)</small>Adjectives
+Adjectives in the Ter Sami language describe things.
+
+
+
+
+
+
+
+Adverbs
+Adverbs in the Ter Sami language describe things.
+
+
+
+
+
+Conjunctions
+Concunctions in the Ter Sami language describe things.
+
+
+
+
+
+Particles
+Particles in the Ter Sami language describe things.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/adjectives.lexc)</small>Verbs
+Verbs in the Ter Sami language are actions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
+Numerals in the Ter Sami language are numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/numerals.lexc)</small>Pronouns
+Pronouns in the Ter Sami language are references to things.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/pronouns.lexc)</small>Adpositions
+Adpositions in the Ter Sami language describe things.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adpositions.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/adpositions.lexc)</small>=================================== !
 The Ter Sami morphophonological/twolc rules file !
 =================================== !
 
@@ -679,24 +786,15 @@ Following the actual noun inflection suffixes
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/nouns.lexc)</small>Proper noun inflection
-The Ter Sami language proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/propernouns.lexc)</small>Verb inflection
-The Ter Sami language verbs inflect in persons.
-
-
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
 
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/verbs.lexc)</small>Adjective inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/symbols.lexc)</small>Adjective inflection
 The Ter Sami language adjectives compare.
 
 
@@ -707,15 +805,24 @@ The Ter Sami language adjectives compare.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/adjectives.lexc)</small>
-# Symbol affixes
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/adjectives.lexc)</small>Verb inflection
+The Ter Sami language verbs inflect in persons.
+
+
 
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/verbs.lexc)</small>Proper noun inflection
+The Ter Sami language proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/affixes/propernouns.lexc)</small>
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Ter Sami LANGUAGE.
 
 
@@ -797,114 +904,24 @@ The word forms in Ter Sami language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/root.lexc)</small>Nouns
-Nouns in the Ter Sami language are things.
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/root.lexc)</small>
 
 
+We describe here how abbreviations are in Ter Sami are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/nouns.lexc)</small>Verbs
-Verbs in the Ter Sami language are actions.
-
-
-
-
-
-
-
-
-
-
-
-
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/verbs.lexc)</small>Adjectives
-Adjectives in the Ter Sami language describe things.
-
-
-
-
-
-
-
-Adverbs
-Adverbs in the Ter Sami language describe things.
-
-
-
-
-
-Conjunctions
-Concunctions in the Ter Sami language describe things.
-
-
-
-
-
-Particles
-Particles in the Ter Sami language describe things.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/adjectives.lexc)</small>Adpositions
-Adpositions in the Ter Sami language describe things.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adpositions.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/adpositions.lexc)</small>Numerals
-Numerals in the Ter Sami language are numbers.
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/numerals.lexc)</small>Prefixes
-Prefixes in the Ter Sami language are bound to beginning of other words.
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/prefixes.lexc)</small>Pronouns
-Pronouns in the Ter Sami language are references to things.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/stems/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 
 
@@ -960,23 +977,6 @@ Pronouns in the Ter Sami language are references to things.
 
 * * *
 <small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
-
-
-We describe here how abbreviations are in Ter Sami are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 [ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
 
