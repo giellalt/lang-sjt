@@ -1,10 +1,7 @@
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Ter Sami LANGUAGE.
 
-
 # Definitions for Multichar_Symbols
-
-
 
 ## Analysis symbols
 The morphological analyses of wordforms for the Ter Sami
@@ -34,13 +31,10 @@ Non-dictionary words can be recognised with:
 
 Question and Focus particles:
 
-
 Semantics are classified with
-
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
-
 
 Morphophonology
 To represent phonologic variations in word forms we use the following
@@ -80,4 +74,8 @@ The word forms in Ter Sami language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-sjt/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-sjt/blob/main/src/fst/root.lexc)</small>
+
+---
+
