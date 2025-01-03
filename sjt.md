@@ -410,7 +410,7 @@ Prefixes in the Ter Sami language are bound to beginning of other words.
 # src-fst-morphology-stems-pronouns.lexc.md 
 
 Pronouns
-Pronouns in the Ter Sami language are references to things.
+Pronouns in the Ter Sami language are references to things.!
 
 * * *
 
