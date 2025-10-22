@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-sjt)](https://github.com/giellalt/lang-sjt/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-sjt)](https://github.com/giellalt/lang-sjt/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-sjt?label=CI)](https://builds.giellalt.org/pipelines/lang-sjt/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/ters1235)
 
 This page documents the work on the **Ter Sami language model**. 
 
