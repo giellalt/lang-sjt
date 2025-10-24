@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-sjt%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-sjt)](https://github.com/giellalt/lang-sjt/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-sjt)](https://github.com/giellalt/lang-sjt/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-sjt/main/badge.svg)](https://github.com/giellalt/lang-sjt/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-sjt?label=CI)](https://builds.giellalt.org/pipelines/lang-sjt/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/ters1235)
 
 This page documents the work on the **Ter Sami language model**. 
 
