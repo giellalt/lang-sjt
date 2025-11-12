@@ -1,6 +1,3 @@
-spellername = "Ter Sami"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "319902AA-912C-43A9-AB0D-F0D945858FD7", kind = "nsis" },
     { value = "2A3ABFED-468B-4F90-8903-0B1416904375", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Ter Sami"
+version = "0.1.1"
+
+[package.grammar]
+name = "Ter Sami"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Ter Sami"
+version = "0.1.0"
